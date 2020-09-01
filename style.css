@@ -13,7 +13,8 @@ header {
 /* body rules */
 body {
 	background-color: #47a8bd;
-  color: #1e3888;
+	color: #1e3888;
+	padding: 10px;
 }
 
 /* article rules */
@@ -41,22 +42,22 @@ h1 {
 
 /* unvisited */
 a:link {
-  color: #blue;
+  color: blue;
 }
 
 /* visited */
 a:visited {
-  color: #purple;
+  color: purple;
 }
 
 /* hover */
 a:hover {
-  color: #lightblue;
+  color: lightblue;
 }
 
 /* clicked */
 a:active {
-  color: #darkblue;
+  color: darkblue;
 }
 
 /* center rules */
