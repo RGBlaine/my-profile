@@ -37,6 +37,28 @@ h1 {
   font-size: 64px;
 }
 
+/* link rules */
+
+/* unvisited */
+a:link {
+  color: #blue;
+}
+
+/* visited */
+a:visited {
+  color: #purple;
+}
+
+/* hover */
+a:hover {
+  color: #lightblue;
+}
+
+/* clicked */
+a:active {
+  color: #darkblue;
+}
+
 /* center rules */
 .center {
   display: block;
