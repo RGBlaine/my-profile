@@ -2,6 +2,7 @@
   Cascading Style Sheet for my-profile
 */
 
+/* header rules */
 header {
   background-color:#1e3888;
   color: #47a8bd;
@@ -9,16 +10,19 @@ header {
   text-align: center;
 }
 
+/* body rules */
 body {
 	background-color: #47a8bd;
   color: #1e3888;
 }
 
+/* article rules */
 article {
   background-color: #ffad69;
   color: #9c3848;
 }
 
+/* footer rules */
 footer {
   background-color: #9c3848;
   color: #ffad69;
@@ -26,12 +30,14 @@ footer {
     text-align: center;
 }
 
+/* h1 rules */
 h1 {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   font-size: 64px;
 }
 
+/* center rules */
 .center {
   display: block;
   margin-left: auto;
