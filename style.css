@@ -63,7 +63,7 @@ a:active {
 /* center rules */
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  height: 50%;
   width: 50%;
 }
